@@ -1,0 +1,36 @@
+# Images
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.gif
+*.webp
+*.svg
+
+# PDFs
+*.pdf
+
+# Data / binary junk
+*.npy
+*.npz
+*.pkl
+*.h5
+*.hdf5
+*.mat
+*.csv
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Jupyter junk
+.ipynb_checkpoints/
+
+# Mac junk
+.DS_Store
+
+# Large/output folders, optional
+data/
+figures/
+outputs/
